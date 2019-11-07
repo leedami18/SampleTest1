@@ -16,6 +16,7 @@ export class AppComponent implements OnInit {
 
   // Launch flex modal or alert (3pts reduced) showing about text
   openAboutModal() {
+    alert('This application was designed by Damian Lee (C) 2019')
   }
 
 }
